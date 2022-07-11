@@ -13,7 +13,7 @@
 .pegada{
 position: absolute;
 z-index: 1;
-left: 400px;
+left: 380px;
 bottom: 50px;
 height: 30px;
 }
@@ -22,7 +22,7 @@ height: 30px;
   position: absolute;
   z-index: 1;
   height: 30px;
-  left: 570px;
+  left: 550px;
   bottom: 110px;
 }
 
@@ -30,7 +30,7 @@ height: 30px;
   position: absolute;
   z-index: 1;
   height: 13px;
-  left: 250px;
+  left: 230px;
   bottom: 290px;
 }
 
@@ -38,7 +38,7 @@ height: 30px;
   position: absolute;
   z-index: 1;
   height: 15px;
-  left: 580px;
+  left: 560px;
   bottom: 380px;
 }
 }
