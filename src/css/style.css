@@ -1,0 +1,44 @@
+@media(max-width: 900px){
+.container{
+  background-image: url(../images/crime.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  position: relative;
+  background-position: center center;
+  z-index: 0;
+}
+
+.pegada{
+position: absolute;
+z-index: 1;
+left: 400px;
+bottom: 50px;
+height: 30px;
+}
+
+.poça{
+  position: absolute;
+  z-index: 1;
+  height: 30px;
+  left: 570px;
+  bottom: 110px;
+}
+
+.tecido{
+  position: absolute;
+  z-index: 1;
+  height: 13px;
+  left: 250px;
+  bottom: 290px;
+}
+
+.cabeca{
+  position: absolute;
+  z-index: 1;
+  height: 15px;
+  left: 580px;
+  bottom: 380px;
+}
+}
