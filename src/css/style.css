@@ -111,27 +111,28 @@ background-color: rgb(129, 87, 87);
   height: 60px;
 }
 
+@media (max-width: 900px){
 .suspeitos{
-  background-image: url(../images/suspeitos.JPG);
+  background-image: url(../images/teste2.JPG);
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 90vh;
-  min-width: 90vw;
-  position: relative;
+  min-height: 100vh;
+  min-width: 100vw;
+ 
   background-position: center center;
-  margin-top: 50px;
+  /* margin-top: 50px;
   z-index: 1;
   position: absolute;
-  left: 3%;
+  left: 3%; */
 }
 
-.fundo{
+/* .fundo{
   background-color: #79A5BB;
   background-size: cover;
   min-height: 100vh;
   min-width: 100vw;
   z-index: 0;
-}
+} */
 
 .texto{
   z-index: 1;
@@ -139,13 +140,14 @@ background-color: rgb(129, 87, 87);
   color: white;
   position: absolute;
   left: 40%;
-  bottom: 10%;
-  height: 50px;
-  width: 330px;
+  bottom: 0;
+  height: 20px;
+  width: 200px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
-  font-size: 30px;
+  font-size: 15px;
   font-weight: 700;
+}
 }
