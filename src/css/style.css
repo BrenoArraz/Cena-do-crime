@@ -70,6 +70,7 @@ height: 30px;
 
 .peg{
   height: 30px;
+  margin-left: 10px;
 }
 
 .caixa-poca{
@@ -101,4 +102,23 @@ background-color: rgb(129, 87, 87);
 .cab{
   height: 20px;
   margin-left: 10px;
+}
+
+.seta{
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+  height: 60px;
+}
+
+.suspeitos{
+  background-image: url(../images/suspeitos.JPG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  min-width: 100vw;
+  position: relative;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
 }
