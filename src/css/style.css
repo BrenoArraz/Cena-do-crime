@@ -116,7 +116,8 @@ background-color: rgb(129, 87, 87);
   background-image: url(../images/suspeitos.JPG);
   width: 100vw;
   height: 100vh;
-  background-size: cover;
+  /* background-size: cover; */
+  background-size: 100% 100%;
 }
 
 /* .fundo{
@@ -134,12 +135,12 @@ background-color: rgb(129, 87, 87);
   position: absolute;
   left: 40%;
   bottom: 5%;
-  height: 40px;
+  height: 30px;
   width: 250px;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 700;
 }
