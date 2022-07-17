@@ -111,7 +111,7 @@ background-color: rgb(129, 87, 87);
   height: 60px;
 }
 
-@media (max-width: 900px){
+
 .suspeitos{
   background-image: url(../images/teste2.JPG);
   background-size: cover;
