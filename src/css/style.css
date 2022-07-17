@@ -40,3 +40,47 @@ height: 30px;
   left: 63%;
   bottom: 88%;
 }
+
+.caixa{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  position: absolute;
+  z-index: 1;
+  left: 38%;
+  bottom: 12%;
+  flex-wrap: wrap;
+  width: 150px;
+  height: 60px;
+  border-radius: 10px;
+  display: none;
+  border: black;
+  color: white;
+}
+
+.item.ativo .caixa{
+  display: inline-block;
+  display: flex;
+}
+
+.caixa-pegada{
+  background-color: rgb(103, 127, 192);
+}
+
+.peg{
+  height: 30px;
+}
+
+.caixa-poca{
+width: 205px;
+background-color: rgb(129, 87, 87);
+}
+
+.poc{
+  height: 30px;
+}
+
+.x{
+  margin-bottom: 50px;
+}
