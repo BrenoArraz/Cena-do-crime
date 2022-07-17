@@ -81,6 +81,24 @@ background-color: rgb(129, 87, 87);
   height: 30px;
 }
 
-.x{
-  margin-bottom: 50px;
+.caixa-tecido{
+  background-color: rgb(232, 93, 227);
+  width: 200px;
+  height: 50px;
+}
+
+.tec{
+  height: 20px;
+  margin-left: 10px;
+}
+
+.caixa-cabeca{
+  background-color: rgb(103, 127, 192);
+  width: 200px;
+  height: 50px;
+}
+
+.cab{
+  height: 20px;
+  margin-left: 10px;
 }
