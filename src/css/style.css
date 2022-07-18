@@ -132,7 +132,7 @@ background-color: rgb(129, 87, 87);
   z-index: 1;
   background-color: red;
   color: white;
-  position: absolute;
+  position: fixed;
   left: 40%;
   bottom: 5%;
   height: 30px;
